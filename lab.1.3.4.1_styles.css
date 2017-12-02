@@ -1,0 +1,28 @@
+header, footer {
+	background-color: #ff0155;
+	padding: 15px;
+}
+header, footer{
+	text-align: center;
+}
+header button, footer button{
+	color: black;
+	background-color: #f5a58f;
+	padding: 9px;
+}
+.content{
+	background-color: e6e5e7;
+	margin: 20px;
+	padding: 15px;
+	text-align: left;
+}
+.content button{
+    background-color: #ffffff;
+    color: black;
+    padding: 2px;
+}
+.content > button {
+	  background-color: #9bf58f;
+	  color: black;
+	  padding: 15px;
+}
