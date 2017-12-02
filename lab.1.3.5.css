@@ -1,0 +1,30 @@
+bg-image{
+	position: top;
+}
+header{
+	text-align: center;
+}
+
+div{
+	text-indent: 20px;
+}
+.content{
+	font-weight: bold;
+	font-kerning: 4x;
+}
+.section{
+	font-weight: normal;
+	font-style: italic;
+	font: cursive;
+	font-kerning: 2px
+}
+
+a:link {
+	color: white;
+}
+a:visited {
+	color: red;
+}
+a:hover{
+	color:green;
+}
